@@ -126,4 +126,4 @@ CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 陈翔六点半,https://www.goodiptv.club/huya/11274154
 动画频道,#genre#
  茶啊二中,https://www.goodiptv.club/huya/11213191
-海绵宝宝,https://www.goodiptv.club/huya/11352919
+
