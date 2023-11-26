@@ -124,6 +124,9 @@ CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 爱情公寓,https://www.goodiptv.club/huya/11336726
 爱情公寓,https://www.goodiptv.club/douyu/11720507
 陈翔六点半,https://www.goodiptv.club/huya/11274154
+医馆笑传,https://epg.112114.xyz/huya/11352891
+笑傲帮,https://epg.112114.xyz/huya/11352908
 动画频道,#genre#
- 茶啊二中,https://www.goodiptv.club/huya/11213191
+茶啊二中,https://www.goodiptv.club/huya/11213191
+海绵宝宝,https://www.goodiptv.club/huya/11352919
 
