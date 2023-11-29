@@ -546,6 +546,6 @@ FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 华视戏剧,https://ytm2.yuanhsing.cf/ctsprog.m3u8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-八大电视,https://ytm2.yuanhsing.cf/GTVDRAMA.m3u8
+
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
