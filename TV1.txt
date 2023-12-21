@@ -374,7 +374,7 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 世界地理,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8
 文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8
 央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8
-央视高网,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8
+高尔夫•网球,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8
 风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/1.m3u8
 风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8
 第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8
@@ -397,16 +397,16 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.
 风云音乐,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
 风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
-央视高网,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+高尔夫•网球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 电视指南,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002545/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
+
 兵器科技,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 世界地理,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
 文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
-央视高网,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+高尔夫•网球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 风云剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
 风云音乐,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
 第一剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
@@ -422,7 +422,7 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.
 风云音乐,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 风云足球,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 央视台球,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-央视高网,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+高尔夫•网球,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 文化精品,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 电视指南,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002545/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 第一剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -435,7 +435,7 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.
 风云剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 风云音乐,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 央视台球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-央视高网,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+高尔夫•网球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 文化精品,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
@@ -445,7 +445,7 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 世界地理,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8
 文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8
 央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8
-央视高网,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8
+高尔夫•网球,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8
 风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/1.m3u8
 风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8
 第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8
@@ -456,7 +456,7 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 求索动物,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
 求索科学,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 求索生活,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
-新奇世界,http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000028434/index.m3u8?channel-id=wasusyt&Contentid=6000000003000028434&livemode=1&stbId=3
+
 
 
 
