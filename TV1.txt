@@ -1,5 +1,6 @@
 央视频道,#genre#
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1868232_1764604972/ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8?icpid=3&RTS=1661190272&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
@@ -469,7 +470,7 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.
 求索纪录,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 求索动物,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
 求索科学,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
-求索生活,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
+
 
 CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -477,7 +478,7 @@ CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 求索纪录,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 求索科学,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 求索动物,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
-求索生活,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
+
 
 纪实人文,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw1293235676_155310184/ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8?icpid=3&RTS=1669704189&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
@@ -486,7 +487,7 @@ CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 风云音乐,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
 第一剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
 女性时尚,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
-欢笑剧场,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1868232_1764604972/ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8?icpid=3&RTS=1661190272&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
+
 风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 兵器科技,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
@@ -500,8 +501,10 @@ CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 求索记录,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 求索科学,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 求索生活,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
+求索生活,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
+求索生活,http://zteres.sn.chinamobile.com:6060/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 探索纪实,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5359008697329269813/index.m3u8?channel-id=wasusyt&Contentid=5359008697329269813&livemode=1&stbId=3
-
+华数超清,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 
 
 
@@ -580,7 +583,7 @@ CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1557894210_-694330224/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 动作大片,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1555700033_-766721196/ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8?icpid=3&RTS=1674385966&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
-华数超清,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+
 明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw1933970761_1509977631/ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8?icpid=3&RTS=1674386344&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 
 精彩影视,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
@@ -1113,51 +1116,6 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 
 
 
-百视频道,#genre#
-百视电影1,https://bp-caster.bestv.com.cn/88/3/video.m3u8
-百视电影2,https://bp-caster.bestv.com.cn/89/3/video.m3u8
-百视电影3,https://bp-caster.bestv.com.cn/91/3/video.m3u8
-百视电影4,https://bp-caster.bestv.com.cn/92/3/video.m3u8
-百视电影5,https://bp-caster.bestv.com.cn/93/3/video.m3u8
-百视电影6,https://bp-caster.bestv.com.cn/94/3/video.m3u8
-百视电影7,https://bp-caster.bestv.com.cn/95/3/video.m3u8
-百视电影8,https://bp-caster.bestv.com.cn/96/3/video.m3u8
-百视电影9,https://bp-caster.bestv.com.cn/97/3/video.m3u8
-百视电影10,https://bp-caster.bestv.com.cn/98/3/video.m3u8
-百视电影11,https://bp-caster.bestv.com.cn/99/3/video.m3u8
-百视电影12,https://bp-caster.bestv.com.cn/100/3/video.m3u8
-百视电影13,https://bp-caster.bestv.com.cn/101/3/video.m3u8
-百视电影14,https://bp-caster.bestv.com.cn/102/3/video.m3u8
-百视电影15,https://bp-caster.bestv.com.cn/103/3/video.m3u8
-百视电影16,https://bp-caster.bestv.com.cn/104/3/video.m3u8
-百视电影17,https://bp-caster.bestv.com.cn/105/3/video.m3u8
-百视电影18,https://bp-caster.bestv.com.cn/106/3/video.m3u8
-百视电影19,https://bp-caster.bestv.com.cn/107/3/video.m3u8
-百视电影20,https://bp-caster.bestv.com.cn/108/3/video.m3u8
-百视电影21,https://bp-caster.bestv.com.cn/109/3/video.m3u8
-百视电影22,https://bp-caster.bestv.com.cn/110/3/video.m3u8
-百视电影23,https://bp-caster.bestv.com.cn/111/3/video.m3u8
-百视电影24,https://bp-caster.bestv.com.cn/112/3/video.m3u8
-百视电影25,https://bp-caster.bestv.com.cn/113/3/video.m3u8
-百视电影26,https://bp-caster.bestv.com.cn/114/3/video.m3u8
-百视电影27,https://bp-caster.bestv.com.cn/115/3/video.m3u8
-百视电影28,https://bp-caster.bestv.com.cn/116/3/video.m3u8
-百视电影29,https://bp-caster.bestv.com.cn/117/3/video.m3u8
-百视电影30,https://bp-caster.bestv.com.cn/118/3/video.m3u8
-百视电影31,https://bp-caster.bestv.com.cn/119/3/video.m3u8
-百视电影32,https://bp-caster.bestv.com.cn/120/3/video.m3u8
-百视电影33,https://bp-caster.bestv.com.cn/121/3/video.m3u8
-百视电影34,https://bp-caster.bestv.com.cn/122/3/video.m3u8
-百视电影35,https://bp-caster.bestv.com.cn/123/3/video.m3u8
-百视电影36,https://bp-caster.bestv.com.cn/124/3/video.m3u8
-百视电影37,https://bp-caster.bestv.com.cn/125/3/video.m3u8
-百视电影38,https://bp-caster.bestv.com.cn/126/3/video.m3u8
-百视电影39，https://bp-caster.bestv.com.cn/127/3/video.m3u8
-百视电影40,https://bp-caster.bestv.com.cn/128/3/video.m3u8
-百视电影41,https://bp-caster.bestv.com.cn/129/3/video.m3u8
-百视电影42,https://bp-caster.bestv.com.cn/130/3/video.m3u8
-百视搞笑43,https://bp-caster.bestv.com.cn/131/3/video.m3u8
-百视搞笑44,https://bp-caster.bestv.com.cn/132/3/video.m3u8
 
 
 
