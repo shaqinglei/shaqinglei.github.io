@@ -27,33 +27,4 @@
     "bottomText":"以上数据来源于网络，若有侵权立即删除",
     "needComment":1
     
-}{
-    "title":"玩机博客",
-    "subTitle":"愿你出走半生，归来仍是少年。",
-    "avatarUrl":"https://avatars.githubusercontent.com/u/152010336?s=400&u=a022aafc73ecdedf462b45ef0141bd5e58451f97&v=4",
-    "GMEEK_VERSION":"last",
-    "startSite":"01/26/2025",
-    "onePageListNum":25,
-    "singlePage":["about"],
-    "iconList":{"music":"M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13Z"},
-    "exlink":{"music":"https://music.meekdai.com"},
-    "commentLabelColor":"#006b75",
-    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
-    "i18n":"CN",
-    "UTC":8,
-    "themeMode":"manual",
-    "dayTheme":"light",
-    "nightTheme":"dark_colorblind",
-    "urlMode":"pinyin",
-    "style":"",
-    "script":"",
-    "head":"",
-    "allHead":"",
-    "indexStyle":"",
-    "indexScript":"",
-    "showPostSource":0,
-    "rssSplit":"sentence",
-    "bottomText":"以上数据来源于网络，若有侵权立即删除",
-    "needComment":1
-    
 }
