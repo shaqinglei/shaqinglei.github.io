@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html data-color-mode="light" data-dark-theme="dark" data-light-theme="light" lang="zh-CN">
+<html data-color-mode="light" data-dark-theme="dark_colorblind" data-light-theme="light" lang="zh-CN">
 <head>
     <meta content="text/html; charset=utf-8" http-equiv="content-type" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />
     
-    <link rel="icon" href="https://github.githubassets.com/favicons/favicon.svg"><script>
+    <link rel="icon" href="https://avatars.githubusercontent.com/u/152010336?s=400&u=a022aafc73ecdedf462b45ef0141bd5e58451f97&v=4"><script>
         let theme = localStorage.getItem("meek_theme") || "light";
         document.documentElement.setAttribute("data-color-mode", theme);
     </script>
@@ -17,7 +17,7 @@
 详情请看[HFS安装与使用](https://jialikemeng.github.io/post/HFS-an-zhuang-yu-shi-yong.html)。">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://shaqinglei.github.io/post/shou-ji-yu-dian-nao-ju-yu-wang-wen-jian-chuan-shu.html">
-<meta property="og:image" content="https://github.githubassets.com/favicons/favicon.svg">
+<meta property="og:image" content="https://avatars.githubusercontent.com/u/152010336?s=400&u=a022aafc73ecdedf462b45ef0141bd5e58451f97&v=4">
 <title>手机与电脑局域网文件传输</title>
 
 
@@ -56,12 +56,6 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     <a href="https://shaqinglei.github.io" id="buttonHome" class="btn btn-invisible circle" title="首页">
         <svg class="octicon" width="16" height="16">
             <path id="pathHome" fill-rule="evenodd"></path>
-        </svg>
-    </a>
-    
-    <a href="https://github.com/shaqinglei/shaqinglei.github.io/issues/1" target="_blank" class="btn btn-invisible circle" title="Issue">
-        <svg class="octicon" width="16" height="16">
-            <path id="pathIssue" fill-rule="evenodd"></path>
         </svg>
     </a>
     
@@ -104,13 +98,13 @@ PairDrop以其简洁的界面和强大的功能脱颖而出。它允许用户在
 更多使用场景：也可以用作“家庭影音中心”、“办公室文件共享”、“产品原型服务器”等。走局域网HTTP协议，Windows、MacOS、虚拟机、安卓、iPhone等都可以跨平台共享文件。<br>
 参看<a href="https://mp.weixin.qq.com/s/y0lV2mYq2hp4jF7I-qkQcQ" rel="nofollow">1.7K Star开源无线传输利器:实现电脑和手机超大文件之间的极速共享</a>。</p>
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/21d58fe2-b233-495a-8429-4cc85733159e"><img src="https://github.com/user-attachments/assets/21d58fe2-b233-495a-8429-4cc85733159e" alt="Image" style="max-width: 100%;"></a></p></div>
-<div style="font-size:small;margin-top:8px;float:right;"></div>
+<div style="font-size:small;margin-top:8px;float:right;">以上数据来源于网络，若有侵权立即删除</div>
 
 <button class="btn btn-block" type="button" onclick="openComments()" id="cmButton">评论</button>
 <div class="comments" id="comments"></div>
 
 </div>
-    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://shaqinglei.github.io">Blog Title</a></div>
+    <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://shaqinglei.github.io">玩机博客</a></div>
 <div id="footer2">
     <span id="runday"></span><span>Powered by <a href="https://meekdai.com/Gmeek.html" target="_blank">Gmeek</a></span>
 </div>
@@ -119,8 +113,8 @@ PairDrop以其简洁的界面和强大的功能脱颖而出。它允许用户在
 var now=new Date();
 document.getElementById("copyrightYear").innerHTML=now.getFullYear();
 
-if(""!=""){
-    var startSite=new Date("");
+if("01/26/2025"!=""){
+    var startSite=new Date("01/26/2025");
     var diff=now.getTime()-startSite.getTime();
     var diffDay=Math.floor(diff/(1000*60*60*24));
     document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";
@@ -161,7 +155,7 @@ console.log("\n %c Gmeek last https://github.com/Meekdai/Gmeek \n","padding:5px 
 
 <script>
 document.getElementById("pathHome").setAttribute("d",IconList["home"]);
-document.getElementById("pathIssue").setAttribute("d",IconList["github"]);
+
 
 
 
