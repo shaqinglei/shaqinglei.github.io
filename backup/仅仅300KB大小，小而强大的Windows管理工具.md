@@ -69,5 +69,3 @@ Windows 11 轻松设置是由知名开发者@coolcool2013（快乐无极）精�
 ----
 
 https://www.123865.com/s/aKfrVv-WUXN3
-
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/kiciadc7CaaJ4aUlO5pcgiauw7mrvWUficlXe31Umv3DwcRlicxdhPfcYicBropMqiabEibupsYWopqkoCLSdOey2kK4ag/640?wx_fmt=gif)
